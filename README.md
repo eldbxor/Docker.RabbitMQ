@@ -5,5 +5,5 @@ sudo docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 --restart=unless-
 ```
 
 ## Port
-7672: Message Queue  
+5672: Message Queue  
 15672: Management Page
